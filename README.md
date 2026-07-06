@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+<!--
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
+-->
 
 ### 📈 Contribution Activity
 

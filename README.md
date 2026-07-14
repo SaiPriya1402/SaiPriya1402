@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![Three.js](https://img.shields.io/badge/-Three.js-1E1B4B?style=flat-square&logo=threedotjs&logoColor=8B5CF6)-->
 ![HTML5](https://img.shields.io/badge/-HTML5-1E1B4B?style=flat-square&logo=html5&logoColor=8B5CF6)
 ![CSS3](https://img.shields.io/badge/-CSS3-1E1B4B?style=flat-square&logo=css3&logoColor=8B5CF6)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1E1B4B?style=flat-square&logo=tailwindcss&logoColor=8B5CF6)
+<!--![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1E1B4B?style=flat-square&logo=tailwindcss&logoColor=8B5CF6)-->
 
 **Cloud, DevOps & Tooling**
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <!--![Linux](https://img.shields.io/badge/-Linux-1E1B4B?style=flat-square&logo=linux&logoColor=8B5CF6)-->
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,git,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,vercel&theme=dark" />
 </div>
 
 ---

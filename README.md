@@ -96,11 +96,13 @@ Here are some ideas to get you started:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +123,20 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0039-combination-sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->

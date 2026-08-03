@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0039-combination-sum/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -116,4 +117,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->

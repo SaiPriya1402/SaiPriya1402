@@ -126,6 +126,7 @@ Here are some ideas to get you started:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
 | [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -139,4 +140,12 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

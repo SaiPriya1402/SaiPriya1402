@@ -102,6 +102,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0509-fibonacci-number](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
+| [0509-fibonacci-number](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
+| [0509-fibonacci-number](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +160,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0242-valid-anagram/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

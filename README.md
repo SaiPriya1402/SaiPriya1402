@@ -107,6 +107,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0242-valid-anagram](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +149,12 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->

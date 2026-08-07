@@ -131,6 +131,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
+| [0069-sqrtx](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
 ## Minimax
@@ -174,4 +175,12 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->

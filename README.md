@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0455-assign-cookies/) | Easy |
 | [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0242-valid-anagram/) | Easy |
+| [0455-assign-cookies](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0455-assign-cookies/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +185,16 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0069-sqrtx/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0455-assign-cookies/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->

@@ -133,6 +133,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0877-stone-game/) | Medium |
 ## Minimax
@@ -155,6 +156,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -197,4 +199,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0455-assign-cookies/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->

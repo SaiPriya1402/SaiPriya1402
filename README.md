@@ -205,4 +205,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0231-power-of-two/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->

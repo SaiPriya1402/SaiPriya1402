@@ -132,6 +132,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0002-add-two-numbers/) | Medium |
+| [0029-divide-two-integers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0029-divide-two-integers/) | Medium |
 | [0069-sqrtx](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0509-fibonacci-number/) | Easy |
@@ -204,6 +205,7 @@ Here are some ideas to get you started:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/SaiPriya1402/SaiPriya1402/tree/main/0231-power-of-two/) | Easy |
 ## Database
 | Problem Name | Difficulty |
